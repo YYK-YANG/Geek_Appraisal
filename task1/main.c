@@ -5,11 +5,9 @@
 int main (void)
 {
 	double x = 0;
-	double y = 0;
+	double y = 2;
 	int a = y;
-	printf ("您好！")
-	printf ("请输入初始值a\n");
-	scanf ("%lf",&y);
+	printf ("hi");
 	printf ("x        y\n");
 	
 for (a = y;y - y*0.999000>=0.000001;x = x+0.001)
