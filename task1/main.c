@@ -19,7 +19,7 @@ for (a = y;y - y*0.999000>=0.000001;x = x+0.001)
 	printf ("%f       %f\n",x,y);
 
 	
-	printf ("×îÖÕ¶¨Ì¬Îª £º %lf",y);
+	printf ("%lf",y);
 	return 0;
 }
 
